@@ -1,0 +1,104 @@
+
+
+.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6, .page-content li, .page-content a, .page-content span, .page-content p:not(.content-details), .product-list-section h1, .product-list-section h2, .product-list-section h3, .product-list-section h4, .product-list-section h5, .product-list-section h6, .product-list-section li, .product-list-section a, .product-list-section span, .product-list-section p, .product-detail-section h1, .product-detail-section h2, .product-detail-section h3, .product-detail-section h4, .product-detail-section h5, .product-detail-section h6, .product-detail-section li, .product-detail-section a, .product-detail-section span, .product-detail-section p {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 500;
+    color: #000;
+}
+.ul-custom {
+    padding: 10px 0 10px 0;
+}
+ol, ul, li {
+    list-style: none;
+    margin: 0;
+}
+.ul-custom li {
+    line-height: 30px;
+}
+
+.page-content li, .page-content a, .page-content span, .page-content p:not(.content-details) {
+    font-size: 15px;
+}
+
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-check-square:before {
+    content: "\f14a";
+}
+body p {
+    line-height: 25px;
+    margin-bottom: 25px;
+}
+
+.page-content {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a, a:hover, a:active, a:visited {
+    text-decoration: none;
+}
+
+element.style {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.btn-group-vertical>.btn-group:after, .btn-toolbar:after, .clearfix:after, .container-fluid:after, .container:after, .dl-horizontal dd:after, .form-horizontal .form-group:after, .modal-footer:after, .modal-header:after, .nav:after, .navbar-collapse:after, .navbar-header:after, .navbar:after, .pager:after, .panel-body:after, .row:after {
+    clear: both;
+}
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    display: table;
+    content: " ";
+}
+.page-content {
+    padding-bottom: 100px;
+}
+@media (min-width: 1200px){
+.container {
+    width: 1170px;
+}
+.btn {
+    border-radius: 0 !important;
+    outline: none !important;
+}
+.autoshowroom-title h2.AutoshowroomTitle {
+    font-size: 22px;
+    color: #222222;
+    text-align: center;
+    position: relative;
+    padding-bottom: 22px;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+.autoshowroom-title h2.AutoshowroomTitle:before {
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 50%;
+    width: 60px;
+    height: 4px;
+    border-top: 1px solid #ff5400;
+    border-bottom: 1px solid #ff5400;
+    margin-left: -30px;
+}
+
+
+
+
+
+
+
+
+
+

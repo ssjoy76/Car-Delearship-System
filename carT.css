@@ -1,0 +1,69 @@
+
+.autoshowroom-title h2.AutoshowroomTitle {
+    font-size: 22px;
+    color: #222222;
+    text-align: center;
+    position: relative;
+    padding-bottom: 22px;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6, .page-content li, .page-content a, .page-content span, .page-content p:not(.content-details), .product-list-section h1, .product-list-section h2, .product-list-section h3, .product-list-section h4, .product-list-section h5, .product-list-section h6, .product-list-section li, .product-list-section a, .product-list-section span, .product-list-section p, .product-detail-section h1, .product-detail-section h2, .product-detail-section h3, .product-detail-section h4, .product-detail-section h5, .product-detail-section h6, .product-detail-section li, .product-detail-section a, .product-detail-section span, .product-detail-section p {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 500;
+    color: #000;
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body h1 a, body h2 a, body h3 a, body h4 a, body h5 a, body h6 a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    ine-height: 35px;
+}
+.autoshowroom-title h2.AutoshowroomTitle:before {
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 50%;
+    width: 60px;
+    height: 4px;
+    border-top: 1px solid #ff5400;
+    border-bottom: 1px solid #ff5400;
+    margin-left: -30px;
+}
+
+.page-content li, .page-content a, .page-content span, .page-content p:not(.content-details) {
+    font-size: 15px;
+}
+
+.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6, .page-content li, .page-content a, .page-content span, .page-content p:not(.content-details), .product-list-section h1, .product-list-section h2, .product-list-section h3, .product-list-section h4, .product-list-section h5, .product-list-section h6, .product-list-section li, .product-list-section a, .product-list-section span, .product-list-section p, .product-detail-section h1, .product-detail-section h2, .product-detail-section h3, .product-detail-section h4, .product-detail-section h5, .product-detail-section h6, .product-detail-section li, .product-detail-section a, .product-detail-section span, .product-detail-section p {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 500;
+    color: #000;
+}
+
+body p {
+    line-height: 25px;
+    margin-bottom: 25px;
+}
+
+
+.page-content h1, h3, p, span {
+    color: #7c7d7f;
+}
+
+body, body a, body p {
+    color: #565656;
+    font-weight: 300;
+    letter-spacing: 0.3px;
+}
+
+
+
+
+
+
+
+
+
+
+
